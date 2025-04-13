@@ -1,0 +1,10 @@
+time="2025-04-11T13:58:28+08:00" level=info msg="开始初始化数据库连接池"
+time="2025-04-11T13:58:28+08:00" level=info msg="初始化数据库连接池成功!!!"
+time="2025-04-11T13:58:28+08:00" level=info msg=---------------------
+time="2025-04-11T13:58:28+08:00" level=info msg="开始实例化所有的bean"
+time="2025-04-11T13:58:28+08:00" level=info msg="初始化bean,name = sheepDao"
+time="2025-04-11T13:58:28+08:00" level=info msg="初始化bean,name = sheepServiceImpl"
+time="2025-04-11T13:58:28+08:00" level=info msg="初始化bean,name = sheepController"
+time="2025-04-11T13:58:28+08:00" level=info msg="实例化所有的bean成功!!!"
+time="2025-04-11T13:58:28+08:00" level=info msg="开始注册路由!!!"
+time="2025-04-11T13:58:36+08:00" level=fatal msg="请先执行InitApplicationContext方法初始化所有的bean..."
